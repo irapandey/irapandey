@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning New Tech
 - 🌱 I’m currently learning Web Development alongside Blockchains
 - 💞️ I’m looking to collaborate on learning more
-- 📫 How to reach me- Find me on LinkedIn- /ira-pandey-hmr
+- 📫 How to reach me- Find me on LinkedIn- /ira-pandey-ibm
 
 <!---
 irapandey/irapandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
